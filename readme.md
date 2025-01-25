@@ -1,6 +1,4 @@
 Here's the raw markdown text you can save directly as `README.md`. Copy all content below between the triple backticks:
-
-```markdown
 # ♊ Gemini Habit Tracker Pro
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
